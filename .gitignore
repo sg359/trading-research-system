@@ -1,0 +1,10 @@
+.venv/
+data/raw/
+data/processed/
+results/*.csv
+*.pt
+*.bin
+*.safetensors
+__pycache__/
+.env
+wandb/
